@@ -1,2 +1,3 @@
 # Optimo
-StarterHacks 2019! Collaborated with David Khazzam, Ian Ramzy and Calum Offer.
+👀 Web application to test user's eyesight with voice recognition!
+Developed at StarterHacks 2019 in collaboration with dakadabra, CalumOffer and ianramzy
